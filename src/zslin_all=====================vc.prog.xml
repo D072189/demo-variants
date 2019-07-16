@@ -4,9 +4,11 @@
   <asx:values>
    <PROGDIR>
     <NAME>ZSLIN_ALL=====================VC</NAME>
+    <STATE>A</STATE>
+    <VARCL>X</VARCL>
     <DBAPL>S</DBAPL>
     <DBNA>D$</DBNA>
-    <SUBC>I</SUBC>
+    <SUBC>1</SUBC>
     <APPL>S</APPL>
     <FIXPT>X</FIXPT>
     <LDBNAME>D$S</LDBNAME>
